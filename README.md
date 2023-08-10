@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4E12AQH3vWFQSN7IgQ/article-cover_image-shrink_423_752/0/1691365283572?e=1697068800&v=beta&t=62FehoJ3VdUReFg5auJhw4E-HwQJATXq5fC5RgtuWRQ" alt="Profile Picture">
+  <img src="https://drive.google.com/file/d/1KRQ2C7Rqvs1DK_ZPNvNuQkpXJQTJ3HWt/view?usp=drive_link" alt="Profile Picture">
   <h1>🛡️ Kevin Vanegas 🛡️</h1>
   <p>Cybersecurity</p>
   
