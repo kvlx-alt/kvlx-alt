@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1KRQ2C7Rqvs1DK_ZPNvNuQkpXJQTJ3HWt/view?usp=drive_link" alt="Profile Picture">
   <h1>🛡️ Kevin Vanegas 🛡️</h1>
   <p>Cybersecurity</p>
   
