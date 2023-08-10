@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/118694485?s=400&u=3ac69e3b17b2f2ea426512859174bcdf0f92085b&v=4" alt="Profile Picture">
+  <img src="https://media.licdn.com/dms/image/D4E12AQH3vWFQSN7IgQ/article-cover_image-shrink_423_752/0/1691365283572?e=1697068800&v=beta&t=62FehoJ3VdUReFg5auJhw4E-HwQJATXq5fC5RgtuWRQ" alt="Profile Picture">
   <h1>🛡️ Kevin Vanegas 🛡️</h1>
   <p>Cybersecurity</p>
   
